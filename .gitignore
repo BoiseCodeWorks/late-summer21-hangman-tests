@@ -1,0 +1,5 @@
+node_modules 
+.envnode_modules
+__report__
+coverage
+.nyc_output
